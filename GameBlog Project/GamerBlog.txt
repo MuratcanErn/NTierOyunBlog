@@ -1,0 +1,49 @@
+  ***:Opsiyon
+
+GamerBlog
+
+Sitemizde olucaklar
+-Yorum Sistemi.
+-Üyelik Sistemi.
+-Beğeni sistemi.
+-Arama Kutusu.***
+-En çok etkileşim alanl 3 entry göster.
+-Updated Tarihine göre ana ekranda entry gösterme
+-Oyunlar Kategorize edilicek.
+-Kurallar yapılacak.
+-Yasaklama Sistemi.***
+-Forum İstatistikleri.***
+-Anket sistemi***
+-Şifreleme classı.
+-Admin Paneli.
+
+Bir Kullanıcı Siteye KUllanıcı hesabı olmadan sitemize giriş yapamasın ve Forum içeriklerini Erişemesin.Eğer kullanıcının hesabı yoksa yeni hesap oluşturmak için başka bir sayfaya yönlendirilsin.Üye Olurken Kullanıcının şifresini veritabanında Gizli tutun ve şifreleyin.Üyelik Ekranında olucaklar(1).Üye olduktan sonra Giriş Yapma ekranına geçicek.Giriş Başaralı olursa, Hoşgeldin "Kullanıcı adı" YAzıp Kurallar Sayfasına Yönlendirsin.Kuralları onayladıktan sonra Foruma Erişimi sağlansın.Kullanıcı Sağ üstten her zaman profiline ulaşıp gerek ayarlama gerek hesap çıkışını sağlayabilcek.Sitemizde Arama butonu Anasayfa mevcut olucak ve Oyun arayabilecek kullanıcı. Forumun ana sayfasında En üste kurallar her zaman sabit olucak. onun altında 3 adet En çok etkileşim alan Konu başlığı olcak. onun altında En son Yapılan yorumlar ve konu başlığı çıkacak.Her hangi bir bölgede  Forumun istatikleri çıkacak(2).Konu başlığı ekle butonuna Bastıktan sonra konu ekleme ekranına gidecek(3).Ekleye bastıktan sonra Eklendi yada Eklenemedi şeklinde bir bildirimden sonra Anasayfaya yönlendirilecek.içeriğe tıkladıktan sonra Konu içeriğini(4) görücek. içereği diğer kullanıcılar beğenip yorum yapabilcek. Beğeni sayısı görüntülenebilecek ama  Beğenenleri göremicek. İçeriğe Her kullanıcı Yorum yapabilecek İçerği üreten dahil. Yorum yapma kısmı eklenilcek. yorum yapa bastıktan sonra yorum ilgili içeriğin altında görüntülecenek Ayrıntılarıyla(4). Yorumda beğenilcek. Admin PANELİ= Admin Oyun ekleyebilecek,yorum ve içerikleri silebilecek ve değitirebilecek.KUllanıcı hakkında işlem yapabilcek(5)
+
+
+Dikkat Edilmesi gerekenler:
+-İçerik ve yorumların max ve min karaktleri.
+-beğeni 0 olsada gözüksün.
+-Üye ADmin Paneline erişemesin.
+
+
+
+
+
+
+
+
+(1)-kullancı adı-şifre-mail adresi- doğum tarihi- isim - soyisim.
+
+(2)-
+Kaç üye var
+Kaç konu var
+Kaç yorum var
+En son üye olan kullanıcı.
+(3)-
+oyun veya kategori seçicek.
+içeriği girecek.
+
+(4)Yartılma tarihi kim oluşturdu.
+(5)-Banlama ayarlama vs.                                               
+        
+
